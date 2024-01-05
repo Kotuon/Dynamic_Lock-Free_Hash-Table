@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/Kelson/Documents/school/kelson.wysocki/CS355/finalproject/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/lockfree_hash_table.dir/driver.cpp.o -c /mnt/c/Users/Kelson/Documents/school/kelson.wysocki/CS355/finalproject/driver.cpp",
+  "file": "/mnt/c/Users/Kelson/Documents/school/kelson.wysocki/CS355/finalproject/driver.cpp"
+}
+]

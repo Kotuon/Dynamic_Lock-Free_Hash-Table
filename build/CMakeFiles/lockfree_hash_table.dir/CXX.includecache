@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Kelson/Documents/school/kelson.wysocki/CS355/finalproject/driver.cpp
+lfht.h
+/mnt/c/Users/Kelson/Documents/school/kelson.wysocki/CS355/finalproject/lfht.h
+
+/mnt/c/Users/Kelson/Documents/school/kelson.wysocki/CS355/finalproject/lfht.h
+atomic
+-
+deque
+-
+functional
+-
+mutex
+-
+
